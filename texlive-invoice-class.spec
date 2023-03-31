@@ -1,6 +1,6 @@
 Name:		texlive-invoice-class
 Version:	49749
-Release:	1
+Release:	2
 Summary:	Produces a standard US invoice from a CSV file
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/invoice-class
