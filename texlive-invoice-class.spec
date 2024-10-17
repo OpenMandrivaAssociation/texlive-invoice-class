@@ -3,7 +3,7 @@ Version:	49749
 Release:	2
 Summary:	Produces a standard US invoice from a CSV file
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/invoice-class
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/invoice-class
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/invoice-class.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/invoice-class.doc.r%{version}.tar.xz
